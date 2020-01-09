@@ -11,7 +11,7 @@ public class conexion {
         try {
             Connection cn=DriverManager.getConnection("jdbc:mysql://localhost/bd_tercerob","root","");
             
-            
+            //fg
             return cn;
         } catch (Exception e) {
         }
