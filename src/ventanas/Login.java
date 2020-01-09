@@ -9,7 +9,7 @@ public class Login extends javax.swing.JFrame {
 public static String user="";
 String pass="";
 
-    
+    //probando 2
     public Login() {
         
         initComponents();
