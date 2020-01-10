@@ -8,7 +8,7 @@ public class Tecnico extends javax.swing.JFrame {
      * buenas señores tercero b.
      * probando intefases.
      // para el proyecto 2020.
-     * Creates new form Tecnico
+     * Creates new form Tecnico y un formulari
      */
     public Tecnico() {
         initComponents();
