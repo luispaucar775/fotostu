@@ -12,6 +12,8 @@ public class Tecnico extends javax.swing.JFrame {
         initComponents();
     }
       // miguel eduardo chimbo.
+    //buenas señores tercero b.
+    //probando aver si se enlaza el proyecto
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
