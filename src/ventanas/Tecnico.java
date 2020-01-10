@@ -3,8 +3,8 @@ package ventanas;
 
 
 public class Tecnico extends javax.swing.JFrame {
-
-    /**
+//lala
+    /**kncjrnvjrk
      * Creates new form Tecnico
      */
     public Tecnico() {
