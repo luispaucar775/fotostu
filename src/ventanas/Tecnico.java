@@ -5,7 +5,6 @@ package ventanas;
 public class Tecnico extends javax.swing.JFrame {
     // programacion 2020
     /**
-     * buenas señores tercero b.
      * probando intefases.
      // para el proyecto 2020.
      * Creates new form Tecnico y un formulari
