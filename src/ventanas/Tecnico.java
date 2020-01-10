@@ -5,6 +5,7 @@ package ventanas;
 public class Tecnico extends javax.swing.JFrame {
 
     /**
+     * buenas señores tercero b.
      * Creates new form Tecnico
      */
     public Tecnico() {
