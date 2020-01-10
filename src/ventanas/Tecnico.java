@@ -6,7 +6,7 @@ public class Tecnico extends javax.swing.JFrame {
 
     /**
      * buenas señores tercero b.
-     * probando 
+     * probando intefases.
      * Creates new form Tecnico
      */
     public Tecnico() {
