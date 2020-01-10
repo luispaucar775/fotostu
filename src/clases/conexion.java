@@ -9,9 +9,9 @@ import java.sql.*;
 public class conexion {
     public static Connection conectar(){
         try {
-            Connection cn=DriverManager.getConnection("jdbc:mysql://localhost/bd_tercerob","root","");
+            Connection cn=DriverManager.getConnection("jdbc:mysql://localhost/foto_studio","root","");
             
-            //fga
+            
             return cn;
         } catch (Exception e) {
         }
