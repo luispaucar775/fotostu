@@ -3,7 +3,7 @@ package ventanas;
 
 
 public class Tecnico extends javax.swing.JFrame {
-
+    // programacion 2020
     /**
      * buenas señores tercero b.
      * probando intefases.
