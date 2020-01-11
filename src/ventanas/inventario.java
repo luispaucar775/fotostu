@@ -11,7 +11,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class inventario extends javax.swing.JFrame {
 // miguel eduardo chimbo guamantario
-  Connection cn=conexion.conectar();
+    Connection cn=conexion.conectar();
 
     public inventario() {
         initComponents();
@@ -101,7 +101,7 @@ public class inventario extends javax.swing.JFrame {
             String ID="";
             
             try {
-                Statement st=coneccion.createStatement();
+                Statement st=conexion.createStatement();
                 ResultSet rs=st.executeQuery(sql);
                
 

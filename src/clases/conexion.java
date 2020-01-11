@@ -1,10 +1,7 @@
 
 package clases;
-
-
-
 import java.sql.*;
-
+import clases.conexion;
 
 public class conexion {
     public static Connection conectar(){
