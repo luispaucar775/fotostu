@@ -1,1 +1,1 @@
-# fotostu
+# Foto Store
